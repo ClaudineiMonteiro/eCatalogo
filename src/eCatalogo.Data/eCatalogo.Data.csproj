@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\eCatalogo.UseCases\eCatalogo.UseCases.csproj" />
+  </ItemGroup>
+
 </Project>
