@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCatalogo.UseCases", "src\e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCatalogo.Data", "src\eCatalogo.Data\eCatalogo.Data.csproj", "{929239C2-678A-4F6D-82AC-F001A58C319B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCatalogo.Blazor", "src\eCatalogo.Blazor\eCatalogo.Blazor.csproj", "{0731CF67-4D0F-4E65-A385-BEA86374E322}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{929239C2-678A-4F6D-82AC-F001A58C319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929239C2-678A-4F6D-82AC-F001A58C319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929239C2-678A-4F6D-82AC-F001A58C319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0731CF67-4D0F-4E65-A385-BEA86374E322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731CF67-4D0F-4E65-A385-BEA86374E322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731CF67-4D0F-4E65-A385-BEA86374E322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731CF67-4D0F-4E65-A385-BEA86374E322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
